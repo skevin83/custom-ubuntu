@@ -23,4 +23,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: kevinsee/bitbucket-agent:latest
+          tags: kevinsee/custom-ubuntu:latest
